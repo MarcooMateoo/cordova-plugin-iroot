@@ -1,5 +1,7 @@
 repositories{
-    maven { url 'https://jitpack.io' }
+    maven { 
+        mavenCentral()
+    }
 }
 
 dependencies {
